@@ -1,0 +1,2 @@
+# EarthquakePrediction
+Earthquake prediction challenge
