@@ -1,6 +1,5 @@
 numpy
 pandas
-astropy
 matplotlib
 seaborn
 
