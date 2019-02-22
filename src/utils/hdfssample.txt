@@ -1,4 +1,4 @@
-### Commands for getting small sample of files fo construction
+### Commands for getting first few rows of files fo construction
 
 hdfs dfs -head /ds410/taxi/faredata/trip_fare_1.csv
 
