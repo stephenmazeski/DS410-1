@@ -1,0 +1,38 @@
+### Commands for getting small sample of files fo construction
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_1.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_1.csv
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_2.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_2.csv
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_3.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_3.csv
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_4.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_4.csv
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_5.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_5.csv
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_6.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_6.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_7.csv
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_7.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_8.csv
+
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_8.csv
+
+hdfs dfs -head /ds410/taxi/tripdata/trip_data_9.csv
+
+hdfs dfs -head /ds410/taxi/faredata/trip_fare_9.csv
