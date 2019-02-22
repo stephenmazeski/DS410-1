@@ -1,0 +1,9 @@
+What exactly are we solving?
+
+How we approach it?
+
+Feature analysis methods needed?
+
+Models
+
+
